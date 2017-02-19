@@ -1,4 +1,7 @@
 Ok - not enough text?
 
 
-Ruby
+* Ruby
+* JS
+
+* more skills at [dankreiger.com](http://dankreiger.com/)
